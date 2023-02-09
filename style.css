@@ -361,6 +361,7 @@ footer {
 #tutorials {
 	padding: 0 12px;
 	margin-bottom: 20px;
+	width: 100%;
 }
 
 .p-title {
@@ -379,6 +380,7 @@ footer {
 		display: grid;
 		grid-template-columns: 1fr;
 		grid-template-rows: auto auto;
+		width: 100%;
 	}
 }
 
@@ -393,7 +395,8 @@ footer {
 	.session,
 	#tutorials {
 		padding: 0;
-		width: 100%;
+		display: grid;
+		grid-template-columns: 1fr;
 	}
 
 	.time {
