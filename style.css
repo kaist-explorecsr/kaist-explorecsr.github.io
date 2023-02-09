@@ -340,18 +340,18 @@ footer {
 }
 
 .presenter-affil,
-.presenter-reserach {
+.presenter-research {
 	font-size: 12px;
 	font-weight: 300;
 	color: gray;
 }
 
-.tutorial-presentation .presenter-affil {
+/* .tutorial-presentation .presenter-affil {
 	grid-row-start: 1;
 	grid-row-end: 3;
 	align-self: flex-end;
 	margin-bottom: 4px;
-}
+} */
 
 .tutorial-presentation {
 	margin-top: 0;
